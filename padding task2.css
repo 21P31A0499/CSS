@@ -1,0 +1,30 @@
+.abc{
+	height:500px;
+	width: 900px;
+	background-color:grey ;
+}
+.def{
+	height:400px;
+	width:800px;
+	background-color: red;
+	margin-left:50px;
+	margin-right: 25px;
+	margin-top: 25px;
+
+}
+.ghi{
+	height: 300px;
+	width:700px;
+	background-color: grey;
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-left: 50px;
+}
+.jkl{
+	height: 200px;
+	width: 600px;
+	background-color: skyblue;
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-left: 50px;
+}
